@@ -1,0 +1,24 @@
+body{
+    background-size: cover;
+    background-color: rgba(240, 222, 172, 0.2);
+    font-family: 'Spectral';
+    color:rgb(0, 0, 0);
+    margin-left: 550px;
+    width: 850px;
+}
+header {
+    background-color: rgba(240, 222, 172, 0.2);
+    height: 1015px;
+    width: 400px;
+    position: absolute;
+    margin-left: -415px;
+    margin-top: -20px;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    margin-top: 25px;
+    border-radius: 10px;
+    width: 360px;
+    height: 35px;
+    margin-left: 5px;
+}
